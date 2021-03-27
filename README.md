@@ -37,7 +37,7 @@ To run the playbook, perform the following procedure:
 
 * Log in to your control machine.
 * Change the working directory to the playbooks directory.
-* To run the upgrade_bigip_software.yml playbook, enter the following command:
+* To run the upgrade.yaml playbook, enter the following command:
 * ansible-playbook -i inventory upgrade.yaml
 
 ## Impacts of procedure: 
