@@ -1,6 +1,6 @@
 ---
 - name: Upgrade Azure BIG-IP software
-  hosts: f5-azure-emirates
+  hosts: f5-azure
   gather_facts: False
 
   vars:
