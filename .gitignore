@@ -1,0 +1,3 @@
+*.iso
+/files/*.iso
+/inventory/host*
