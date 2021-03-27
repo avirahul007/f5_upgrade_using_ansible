@@ -1,4 +1,4 @@
-# ansible-f5-upload-install-os
+# Ease Way to Upgrade your BIGIP Devices
 
 Ready Cookbook available for you to upgrade the firmware of your BIGIP devices. Hmmmm... you think it's simple and any F5 admin can do it!!! But what if I say "Let's do it using one touch option". Don't worry, it's very easy just follow below 
 
@@ -8,7 +8,7 @@ Ready Cookbook available for you to upgrade the firmware of your BIGIP devices. 
 * Install python (Version = 2.7.18)
 * Install sshpass (apt-get install sshpass) ==> Module used to intiate ssh connection with BIGIP devices
 * Install Ansible Module from link: https://galaxy.ansible.com/f5networks/f5_modules 
-* git clone https://
+* git clone https://github.com/avirahul007/f5_upgrade_using_ansible.git 
 
 
 * Inventory list of all the f5s i needed to upgrade (active and standby) for the environment.
